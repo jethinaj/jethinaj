@@ -41,4 +41,4 @@ More projects coming soon
 Connect With Me
 - GitHub: [github.com/JethinJames](https://github.com/JethinJames)
 - Email: jethinjames36@gmail.com
-- YouTube: (https://youtube.com/@gallant-corex?si=oZZPAcqM2hkr-or4)
+- YouTube: https://youtube.com/@gallant-corex?si=oZZPAcqM2hkr-or4

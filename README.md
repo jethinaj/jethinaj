@@ -6,7 +6,7 @@ Electronics & Embedded Systems Enthusiast
 C Programmer | Microcontrollers | Hardware + Software   
 Passionate about Embedded Systems & Electronics       
 Hands-on experience with microcontrollers, sensors,    
-and hardware interfacing
+and hardware interfacing   
 Constantly learning and experimenting with Embedded systems
 
 Technical Skills

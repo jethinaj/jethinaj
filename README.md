@@ -3,9 +3,9 @@ Hi, I'm Jethin James
 About Me
 
 Electronics & Embedded Systems Enthusiast  
-C Programmer | Microcontrollers | Hardware + Software 
-Passionate about Embedded Systems & Electronics     
-Hands-on experience with microcontrollers, sensors, 
+C Programmer | Microcontrollers | Hardware + Software   
+Passionate about Embedded Systems & Electronics       
+Hands-on experience with microcontrollers, sensors,    
 and hardware interfacing
 Constantly learning and experimenting with Embedded systems
 

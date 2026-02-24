@@ -15,8 +15,7 @@ Programming
 - C
 - Embedded C
 - Basics of Data Structures
-
-Embedded & Electronics
+- Embedded & Electronics
 - Microcontrollers (PIC, Arduino – basics)
 - 7-Segment Display
 - Sensors & Actuators
@@ -36,8 +35,3 @@ Projects
 - 2D Array Operations in C
 - Union & Structure Memory Demonstrations  
 More projects coming soon
-
-Connect With Me
-- GitHub: [github.com/JethinJames](https://github.com/JethinJames)
-- Email: jethinjames36@gmail.com
-- YouTube: https://youtube.com/@gallant-corex?si=oZZPAcqM2hkr-or4
